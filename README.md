@@ -22,6 +22,7 @@ Next Steps:
 Learn SQL + Python (if not already strong).
 Hands-on with Apache Airflow, dbt, BigQuery (GCP native), and Cloud Storage.
 Study data modeling and ETL pipelines.
+
 2. DataOps Engineer (Secondary Recommendation)
 Why it fits:
 
